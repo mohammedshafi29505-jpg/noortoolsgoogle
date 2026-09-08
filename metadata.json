@@ -1,0 +1,7 @@
+{
+  "name": "NoorTools",
+  "description": "Quran, Islamic Tools & Helpful Resources — All in One Place",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

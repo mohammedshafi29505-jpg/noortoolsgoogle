@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "NoorTools — Islamic Utility Platform",
+  "short_name": "NoorTools",
+  "description": "Quran, Islamic Tools & Helpful Resources — All in One Place",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#064e3b",
+  "background_color": "#064e3b",
+  "categories": ["lifestyle", "education", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
